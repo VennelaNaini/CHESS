@@ -1,0 +1,38 @@
+table{
+    font-family: 1px groove black;
+}
+#violet{
+    background-color: blueviolet;
+    height : 200px;
+    width : 50px;
+}
+#indigo{
+    background-color: blue;
+    height : 200px;
+    width : 50px;
+}
+#blue{
+    background-color: aqua;
+    height : 200px;
+    width : 50px;
+}
+#green{
+    background-color: green;
+    height : 200px;
+    width : 50px;
+}
+#yellow{
+    background-color: yellow;
+    height : 200px;
+    width : 50px;
+}
+#orange{
+    background-color: orange;
+    height : 200px;
+    width : 50px;
+}
+#red{
+    background-color: red;
+    height : 200px;
+    width : 50px;
+}
